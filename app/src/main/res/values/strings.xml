@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Week02</string>
+    <string name = "app_name">Week02</string>
+    <string name = "Welcome">Welcome to Android!</string>
+    <string name = "Large">Large Text</string>
+    <string name = "B1">BUTTON 1</string>
+    <string name = "B2">BUTTON 2</string>
+    <string name = "Login">LOGIN</string>
+    <string name = "Cancel">CANCEL</string>
+    <string name = "Name">Name:</string>
+    <string name = "Password">Password:</string>
 </resources>
